@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Karina Bakhtiyarova
 
-🎓 MSc Student in Cybersecurity  
+🎓 MSc in Cybersecurity  
 🔍 Focus: Penetration Testing | Cybercrime | Backend Development  
-📍 Based in Leipzig, Germany  
+📍 Based in Dresden, Germany  
 ✉️ karinabakhti@gmail.com
 
 ---
